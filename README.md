@@ -1,40 +1,32 @@
-- 👋 Hi, I’m @HarshitS17
-- 👀 I’m interested in ... exploring new feilds 
-- 🌱 I’m currently learning ... DSA , C++ , Cloud computing 
-- 💞️ I’m looking to collaborate on ... c++ based projects 
-- 📫 How to reach me ... sainiharshit0017@gmail.com 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Harshit Saini </h1>
+<img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/6b2c2aa0d470088d4a692ffcc251ea550562ca44845d2c9ee1bc5506af234e23/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
 
-<!---
-HarshitS17/HarshitS17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- A centered header with color and font size -->
-<div align="center">
-  <h1 style="color:#4CAF50; font-size:50px;">Welcome to My GitHub Profile! 👋</h1>
-  <p style="color:#808080; font-size:18px;">I'm a passionate developer exploring new technologies and building projects.</p>
-</div>
 
-<!-- Flexbox style section using tables for alignment -->
-<table align="center">
-  <tr>
-    <td style="text-align:center;">
-      <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Code-C++-orange?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharasingla&label=Profile%20views&color=0e75b6&style=flat" alt="aksharasingla" /> </p>
 
-<!-- GitHub Stats Card and Most Used Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top Languages" width="300">
-</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!-- Project showcase section with custom colors -->
-<h2 style="color:#4CAF50;">🚀 Projects</h2>
-<ul>
-  <li><a href="https://github.com/yourusername/project3" style="color:#F39C12;">Project 3 - C++ Algorithm Implementation</a></li>
-</ul>
+- 🌱 I’m currently learning *Machine Learning*
+
+- 💬 Ask me about *Web development and C++*
+
+- 📫 How to reach me *aksharasingla4@gmail.com*
+
+- ⚡ Fun fact *Nothing Much*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akshara-singla-57b5b4288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshara-singla-57b5b4288" height="30" width="40" /></a>
+<a href="https://kaggle.com/aksharasingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aksharasingla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aksharasingla4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aksharasingla4" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksharasingla&show_icons=true&locale=en&layout=compact" alt="aksharasingla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharasingla&show_icons=true&locale=en" alt="aksharasingla" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharasingla&" alt="aksharasingla" /></p>
