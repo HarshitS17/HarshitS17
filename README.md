@@ -36,7 +36,5 @@ You can click the Preview link to take a look at your changes.
 <!-- Project showcase section with custom colors -->
 <h2 style="color:#4CAF50;">🚀 Projects</h2>
 <ul>
-  <li><a href="https://github.com/yourusername/project1" style="color:#3498DB;">Project 1 - A Cool Python Script</a></li>
-  <li><a href="https://github.com/yourusername/project2" style="color:#E74C3C;">Project 2 - JavaScript Web App</a></li>
   <li><a href="https://github.com/yourusername/project3" style="color:#F39C12;">Project 3 - C++ Algorithm Implementation</a></li>
 </ul>
