@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Machine Learning*
+- 🌱 I’m currently learning -: *Data Structures & Algorithms * *Cloud Computing*
 
-- 💬 Ask me about *Web development and C++*
+- 💬 Ask me about * C++*
 
-- 📫 How to reach me *aksharasingla4@gmail.com*
-
-- ⚡ Fun fact *Nothing Much*
+- 📫 How to reach me *sainiharshit0017@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
